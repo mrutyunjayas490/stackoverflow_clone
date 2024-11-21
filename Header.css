@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .search-bar {
+    flex-grow: 1;
+    margin: 0 20px;
+    padding: 8px;
+  }
+  
+  .login-btn {
+    padding: 8px 16px;
+    background-color: #ff9800;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  

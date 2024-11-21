@@ -1,0 +1,32 @@
+.question-list {
+  padding: 1rem;
+}
+
+.question-item {
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+}
+
+.question-item h3 {
+  margin: 0;
+}
+
+.question-link {
+  text-decoration: none;
+  color: #0074cc;
+  cursor: pointer;
+}
+
+.question-link:hover {
+  text-decoration: underline;
+}
+
+.question-item p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.question-item:hover {
+  background-color: #f9f9f9;
+}
